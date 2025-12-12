@@ -1,0 +1,73 @@
+start_date,end_date,event,type,needs_confirm
+2022/9/11,2022/9/11,The Day following Mid-Autumn Festival,public_holiday,FALSE
+2022/9/12,2022/9/12,Compensatory rest day (ETAPM Art.79 No.4),public_holiday,FALSE
+2022/10/1,2022/10/1,National Day of the PRC,public_holiday,FALSE
+2022/10/2,2022/10/2,The Day following National Day of the PRC,public_holiday,FALSE
+2022/10/3,2022/10/3,Compensatory rest day (ETAPM Art.79 No.4),public_holiday,FALSE
+2022/10/4,2022/10/4,Chong Yeung Festival,public_holiday,FALSE
+2022/10/5,2022/10/5,Compensatory rest day (ETAPM Art.79 No.4),public_holiday,TRUE
+2022/11/2,2022/11/2,All Soul’s Day,public_holiday,FALSE
+2022/12/1,2022/12/4,Examination Study Period (Sem 1),exam,FALSE
+2022/12/5,2022/12/17,Final Examinations (Sem 1),exam,FALSE
+2022/12/11,2022/12/11,Contingency plan for final examinations (Sem 1),exam,FALSE
+2022/12/18,2022/12/18,Contingency plan for final examinations (Sem 1),exam,FALSE
+2022/12/8,2022/12/8,Feast of Immaculate Conception,public_holiday,FALSE
+2022/12/20,2022/12/20,Macao S.A.R. Establishment Day,public_holiday,FALSE
+2022/12/22,2022/12/22,Winter Solstice,public_holiday,FALSE
+2022/12/24,2022/12/24,Christmas Eve,public_holiday,FALSE
+2022/12/25,2022/12/25,Christmas Day,public_holiday,FALSE
+2022/12/26,2022/12/27,Compensatory rest days (ETAPM Art.79 No.4),public_holiday,FALSE
+2022/12/18,2023/1/1,Christmas/New Year Recess for students,spring_term,FALSE
+2023/1/1,2023/1/1,New Year’s Day,public_holiday,FALSE
+2023/1/15,2023/1/29,Lunar New Year Recess for students,spring_term,FALSE
+2023/1/22,2023/1/24,Lunar New Year,public_holiday,FALSE
+2023/1/25,2023/1/25,Compensatory rest day (ETAPM Art.79 No.4),public_holiday,FALSE
+2023/4/5,2023/4/5,Cheng Ming Festival,public_holiday,FALSE
+2023/4/7,2023/4/7,Good Friday,public_holiday,FALSE
+2023/4/8,2023/4/8,The Day before Easter,public_holiday,FALSE
+2023/4/10,2023/4/10,Compensatory rest day (ETAPM Art.79 No.4),public_holiday,FALSE
+2023/5/4,2023/5/7,Examination Study Period (Sem 2),exam,FALSE
+2023/5/8,2023/5/19,Final Examinations (Sem 2),exam,FALSE
+2023/5/14,2023/5/14,Contingency plan for final examinations (Sem 2),exam,FALSE
+2023/5/20,2023/5/20,Contingency plan for final examinations (Sem 2),exam,FALSE
+2023/5/1,2023/5/1,Labour Day,public_holiday,FALSE
+2023/5/26,2023/5/26,The Buddha’s Birthday,public_holiday,FALSE
+2023/6/5,2023/7/31,Summer Term,summer_term,FALSE
+2023/6/22,2023/6/22,Tuen Ng Festival,public_holiday,FALSE
+2023/9/30,2023/9/30,The Day following Mid-Autumn Festival,public_holiday,FALSE
+2023/10/1,2023/10/1,National Day of the PRC,public_holiday,FALSE
+2023/10/2,2023/10/2,The Day following National Day of the PRC,public_holiday,FALSE
+2023/10/3,2023/10/3,Compensatory rest day (ETAPM Art.79 No.4),public_holiday,TRUE
+2023/10/23,2023/10/23,Chong Yeung Festival,public_holiday,FALSE
+2023/11/2,2023/11/2,All Soul’s Day,public_holiday,FALSE
+2023/12/1,2023/12/3,Examination Study Period (Sem 1),exam,FALSE
+2023/12/4,2023/12/16,Final Examinations (Sem 1),exam,FALSE
+2023/12/8,2023/12/8,Feast of Immaculate Conception,public_holiday,FALSE
+2023/12/10,2023/12/10,Contingency plan for final examinations (Sem 1),exam,FALSE
+2023/12/17,2023/12/17,Contingency plan for final examinations (Sem 1),exam,FALSE
+2023/12/17,2024/1/1,Christmas/New Year Recess for students,spring_term,FALSE
+2023/12/20,2023/12/20,Macao S.A.R. Establishment Day,public_holiday,FALSE
+2023/12/22,2023/12/22,Winter Solstice,public_holiday,FALSE
+2023/12/24,2023/12/24,Christmas Eve,public_holiday,FALSE
+2023/12/25,2023/12/25,Christmas Day,public_holiday,FALSE
+2023/12/26,2023/12/26,Compensatory rest day (ETAPM Art.79 No.4),public_holiday,FALSE
+2024/1/1,2024/1/1,New Year’s Day,public_holiday,FALSE
+2024/1/2,2024/1/2,Release of Academic Reports of Undergraduate Programmes (Sem 1),exam,FALSE
+2024/2/4,2024/2/18,Lunar New Year Recess for students,spring_term,FALSE
+2024/2/9,2024/2/9,Exemption from work in the afternoon by the Chief Executive,public_holiday,FALSE
+2024/2/10,2024/2/12,Lunar New Year,public_holiday,FALSE
+2024/2/13,2024/2/14,Compensatory rest day (ETAPM Art.79 No.4),public_holiday,FALSE
+2024/3/29,2024/3/29,Good Friday,public_holiday,FALSE
+2024/3/30,2024/3/30,The Day before Easter,public_holiday,FALSE
+2024/4/1,2024/4/1,Compensatory rest day (ETAPM Art.79 No.4),public_holiday,FALSE
+2024/4/4,2024/4/4,Cheng Ming Festival,public_holiday,FALSE
+2024/5/1,2024/5/3,Examination Study Period (Sem 2),exam,FALSE
+2024/5/1,2024/5/1,Labour Day,public_holiday,FALSE
+2024/5/4,2024/5/17,Final Examinations (Sem 2),exam,FALSE
+2024/5/12,2024/5/12,Contingency plan for final examinations (Sem 2),exam,TRUE
+2024/5/14,2024/5/14,Contingency plan for final examinations (Sem 2),exam,TRUE
+2024/5/15,2024/5/15,The Buddha’s Birthday,public_holiday,FALSE
+2024/5/20,2024/5/20,Contingency plan for final examinations (Sem 2),exam,TRUE
+2024/5/31,2024/5/31,Release of Academic Reports of Undergraduate Programmes (Sem 2),exam,FALSE
+2024/6/1,2024/7/31,Summer Term,summer_term,TRUE
+2024/6/10,2024/6/10,Tuen Ng Festival,public_holiday,FALSE
