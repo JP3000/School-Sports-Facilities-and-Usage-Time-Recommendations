@@ -4,16 +4,16 @@
 
 ---
 
-Presentation text:[Usage Analysis and Recommendations for Sports Facilities at the University of Macau](./assets/Usage%20Analysis%20and%20Recommendations%20for%20Sports%20Facilities%20at%20the%20University%20of%20Macau.pdf)
+Presentation text:[ Usage Analysis and Recommendations for Sports Facilities at the University of Macau](./assets/Usage%20Analysis%20and%20Recommendations%20for%20Sports%20Facilities%20at%20the%20University%20of%20Macau.pdf)
 
-presentation video:[presentation video]()
+presentation video:[ presentation video](./assets/presentation_video.mp4)
 
 ---
 
 ### Team & Credits
 - **He Jingping:** Responsible for data collection, obtaining and processing **sport\_facilities.csv** and **UM academic calendar.csv**, preprocessing data for badminton and squash courts, conducting data analysis and visualization for badminton courts, performing combined analysis and visualization with the academic calendar, organizing the code and uploading it to the Gitea repository, and writing the README file.
 
-- **Yao Jiahao:** 
+- **Yao Jiahao:** In this group project, I was responsible for analyzing the tennis-related data, including visualizations such as heatmaps and box plots. I also designed and organized the presentation slides. In addition, I delivered a 12-minute presentation on behalf of the group. During the presentation, I highlighted the project motivation, dataset, data engineering pipeline, and key findings.
 
 - **Liang Zhengping:**   
 
