@@ -2,8 +2,11 @@
 
 ## Usage Analysis and Recommendations for Sports Facilities at the University of Macau
 
+
+## Description of Your Project
+
 ### Overview
-This project examines **usage patterns and optimization strategies for sports facilities at the University of Macau**. It focuses on three representative venues—**badminton, tennis, and squash**—and extends to a machine learning module that predicts **booking success rates**. The study covers data from **December 2022 to June 2024**, and it identifies clear temporal rules: **evening peaks**, **higher demand during teaching terms**, and **notable drops during exam periods**.
+This project examines **usage patterns and optimization strategies for sports facilities at the University of Macau**. It focuses on three representative venues—**badminton, tennis, and squash**—and extends to a machine learning module that predicts **booking success rates**. The study covers data from **December 2022 to June 2024**, and it identifies clear temporal rules: **evening peaks**, **higher demand during teaching terms**, and **noticeable drops during exam periods**.
 
 ---
 
@@ -20,10 +23,18 @@ This project examines **usage patterns and optimization strategies for sports fa
 
 ---
 
+### Total court analysis
+- We first assessed the **overall booking volume across all venues**. From December 2022 to January 2024, the total bookings per venue show clear variations in demand levels.
+- We then counted the **number of venues for each sport** on campus to understand capacity. To connect **usage** and **capacity** in one view, we used a **treemap** in which **box size** represents venue quantity and **color intensity** reflects booking frequency.
+- The treemap reveals that **tennis and basketball** are among the most frequently used activities and also have **more dedicated courts**. However, because **some basketball bookings are offline and not synchronized** to the online dataset, subsequent usage analysis relies on venues with reliable online records.
+- Based on data integrity and representativeness, we **focus on three venues** for detailed analysis: **Badminton**, **Tennis**, and **Squash**. For time-specific insights, we emphasize the **`o` (occupied) status**, since it reflects actual successful bookings and helps infer **peak usage periods**.
+
+---
+
 ### Badminton court analysis
 - Selected data using the **HBC** series (HBC1–HBC8, HBH, and related codes). We grouped `O/H/R` as **occupied statuses** to measure time ranges that are not open for new bookings.
 - Time-series trends show **stable demand** throughout the year, with a clear rise in **August–October**. Median levels are similar between weekdays and weekends, but **Saturday and Sunday evenings** are more active.
-- After aligning with the academic calendar, we find that **exam periods and winter breaks** show significant declines, while **summer** has a slight increase. As indoor sports, **badminton is more resistant to climate fluctuation**.
+- After aligning with the academic calendar, we find that **exam periods and winter breaks** show significant declines, while **summer** has a slight increase. As an indoor sport, **badminton is more resistant to climate fluctuation**.
 
 ---
 
@@ -55,9 +66,9 @@ This project examines **usage patterns and optimization strategies for sports fa
 ### Team & Credits
 - **He Jingping:** 
 - **Yao Jiahao:** 
-- **Liang Zhengping:** 
+- **Liang Zhengping:**   
 - **Liang Zhongkai:** 
 - **Zhang Yi:**
 
-### References
 
+### References 
